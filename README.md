@@ -28,9 +28,6 @@ Ing. Darwin Omar Alulema Flores
 
 # 1.OBJETIVOS
 
-Un transformador tiene una especiﬁcación de voltaje primario de 7.2 kV, a = 0.2, y una especiﬁcación de corriente en el secundario de 3 A. ¿Cuál es la es-peciﬁcación de kVA?
-
-[![Whats-App-Image-2021-09-07-at-9-22-03-PM.jpg](https://i.postimg.cc/L6nv0F28/Whats-App-Image-2021-09-07-at-9-22-03-PM.jpg)](https://postimg.cc/LnFzn7Jc)
 
 
 
