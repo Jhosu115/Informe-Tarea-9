@@ -28,7 +28,11 @@ Ing. Darwin Omar Alulema Flores
 
 # 1.OBJETIVOS
 
+1.Analizar los capítulos 23 y 24 del libro para dar solución a los problemas planteados en los mismos, de esta manera mejorar el desempeño y agilidad de los circuitos tratados en estos capítulos de suma importancia como el análisis de las ondas sinusoidales,ejercicios de los mismo,potencia real etc .
 
+2.Investigar métodos para simplificar los circuitos planteados en los ejercicios de esta manera facilitara la resolución del mismo permitiendo dar al ejercicio una solución eficaz y en menos tiempo.
+
+3.Realizar un resumen de los capítulos en un mapa teórico que permita el entendimiento de los temas tratados donde el contenido se encuentre de forma simplificada y contenga fórmulas más usadas de cada tema de suma importancia que se haya visto en el capítulo facilitando el estudio los temas.
 
 # 2. MARCO TEORICO
 
@@ -472,7 +476,24 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 
 # faltan los ejercicios de la 1 al 5 
 
-----------------------------------------------------------------------------------------------------------------------
+1.	Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin tener en cuenta su valor real) las corrientes IA, IB, e IC sumarán cero. Para ilustrarlo, cambie la impedancia de carga de 12Ω a 15 Ω ∠30° y para EAA= 120 V∠0°, haga lo siguiente:
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/24.1.PNG)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/24.1a.PNG)
+
+3. Dibuje el conjunto de formas de onda de las corrientes iA, iB e iC para el circuito de la figura 24 3(c). Suponga carga puramente resistiva y balanceada.__
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/24.3.PNG)
+
+5. Para las cargas de la figura 24-4, Vbc=208 V∠-75°.
+
+a. Determine los voltajes línea a línea Vab y Vca.*
+b. Determine los voltajes de fase.*
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/24.5.PNG)
+
+![](https://github.com/ItzAdoc/ImaD9/blob/main/24.5a.PNG)
 
 7 : Para la carga de la figura 24-47, Van 347 V\angle150. Determine todas las corrientes de línea. Dibuje el diagrama fasorial.
 
@@ -802,7 +823,7 @@ b. El voltaje entre el neutro de la carga y el neutro del generador.
 
  # 4. VIDEO
  
- 
+ https://www.youtube.com/watch?v=2BU8Y4CYoyw
  
  # 5. CONCLUSIONES
  
