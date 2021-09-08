@@ -34,7 +34,7 @@ Ing. Darwin Omar Alulema Flores
 
 [![Potencia-en-sistemas-balenceados.png](https://i.postimg.cc/GmnXVsHM/Potencia-en-sistemas-balenceados.png)](https://postimg.cc/0bZGJjGm)
 
-[![Potencia-en-sistemas-balenceados.png](https://i.postimg.cc/GmnXVsHM/Potencia-en-sistemas-balenceados.png)](https://postimg.cc/0bZGJjGm)
+[![medicion-de-potencia-en-circuitos-trifasicos.png](https://i.postimg.cc/hjwLxh6W/medicion-de-potencia-en-circuitos-trifasicos.png)](https://postimg.cc/nj49fVn0)
 
  # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
  
