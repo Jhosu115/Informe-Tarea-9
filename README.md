@@ -409,8 +409,15 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 
 32. Para la figura 23-52(a), L1 = 25 mH, L2 = 4 mH, y M = 0.8 mH. Si i1 cambia a una tasa de 1200 A/s, ¿cuáles son los voltajes inducidos en el primario y en el secundario?
 
-33. Todo igual que en el problema 32, excepto que i1 = 10 e ^-500t A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calcúlelos a t  1 ms.
+![image](https://user-images.githubusercontent.com/85126275/132510889-8b88e306-fcb1-4c7d-b32b-c741edac5163.png)
 
+![image](https://user-images.githubusercontent.com/85126275/132510952-0f3390d4-3941-49c2-bfc2-40b68164337d.png)
+
+33. Todo igual que en el problema 32, excepto que i1 = 10 e ^-500t A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calcúlelos a t = 1 ms.
+
+![image](https://user-images.githubusercontent.com/85126275/132511032-205b0d38-c6fe-4ab6-95e3-247561332dd5.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132511165-d2ba3d69-8035-4e80-9eab-c70ea48c00bd.png)
 34. Para cada circuito de la figura 23-79, determine LT.
 
 ![image](https://user-images.githubusercontent.com/85126275/132429627-0ce6c870-afa3-4fc4-8bef-0d18f5415c2f.png)
@@ -432,6 +439,9 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 
 38. Para la figura 23-60, R1 = 10 ohm, R2 = 30 ohm, L1 = 100 mH, L2 = 200 mH, M = 25 mH, y f = 31.83 Hz. Escriba las ecuaciones de malla.
 
+![image](https://user-images.githubusercontent.com/85126275/132512634-fef556d2-2c2a-4944-903e-ab54642bd245.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132512860-5ae2f14c-4a6a-449a-b052-9f1bc121994a.png)
 
 39. Para el circuito de la figura 23-83, escriba las ecuaciones de malla.
 
@@ -444,6 +454,17 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 41. Escriba las ecuaciones de malla para el circuito de la figura 23-85. (Este es un problema desafiante.)
 
 ![image](https://user-images.githubusercontent.com/85126275/132429901-f174c916-c4d3-4b2f-a5e0-27e88b082587.png)
+
+43. Vab = 208 V para una carga balanceada Y, PT = 1200 W, y QT = 750 VAR/(ind). Seleccione Van como referencia y determine Ia. (Use el triángulo de potencia)
+
+![image](https://user-images.githubusercontent.com/85126275/132075878-1701c085-c6a1-4fce-993c-aeaceeb62ef2.png)
+
+45. Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C = 120 uF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz.
+
+![image](https://user-images.githubusercontent.com/85126275/132078506-41a6a7a7-f1c1-4361-a355-0eb46e3464ba.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132078525-71e5a90a-aa75-45ec-b0c4-e50beaf0556d.png)
+
 
 -------------------------------------------------------------------------------------------------------------------
 
