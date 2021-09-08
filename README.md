@@ -470,11 +470,7 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 ![image](https://user-images.githubusercontent.com/85126275/132078525-71e5a90a-aa75-45ec-b0c4-e50beaf0556d.png)
 
 
--------------------------------------------------------------------------------------------------------------------
-
 # Problemas Capitulo XXIV
-
-# faltan los ejercicios de la 1 al 5 
 
 1.	Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin tener en cuenta su valor real) las corrientes IA, IB, e IC sumarán cero. Para ilustrarlo, cambie la impedancia de carga de 12Ω a 15 Ω ∠30° y para EAA= 120 V∠0°, haga lo siguiente:
 
