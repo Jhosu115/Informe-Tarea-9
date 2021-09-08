@@ -408,11 +408,43 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 
 </div>
 
+32. Para la figura 23-52(a), L1 = 25 mH, L2 = 4 mH, y M = 0.8 mH. Si i1 cambia a una tasa de 1200 A/s, ¿cuáles son los voltajes inducidos en el primario y en el secundario?
+
+33. Todo igual que en el problema 32, excepto que i1 = 10 e ^-500t A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calcúlelos a t  1 ms.
+
+34. Para cada circuito de la figura 23-79, determine LT.
+
+![image](https://user-images.githubusercontent.com/85126275/132429627-0ce6c870-afa3-4fc4-8bef-0d18f5415c2f.png)
+
+35. Para la figura 23-80, determine LT.
+
+![image](https://user-images.githubusercontent.com/85126275/132429661-e36e0d48-57c2-4651-81af-f479bc54beaa.png)
 
 
--------------------------------------------------------------------------------------------------------------------
+36. Para el circuito de la figura 23-81, determine I.
 
-# faltan 5 ejercicios para acabar el cap 23
+![image](https://user-images.githubusercontent.com/85126275/132429690-2a7cc5da-c368-4032-8663-e0d0ce69b055.png)
+
+37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente?
+
+![image](https://user-images.githubusercontent.com/85126275/132429753-38b2ba8c-4d85-4d39-99f9-d1a1be3924f9.png)
+
+**23-10 Circuitos acoplados magnéticamente con excitación sinusoidal**
+
+38. Para la figura 23-60, R1 = 10 ohm, R2 = 30 ohm, L1 = 100 mH, L2 = 200 mH, M = 25 mH, y f = 31.83 Hz. Escriba las ecuaciones de malla.
+
+
+39. Para el circuito de la figura 23-83, escriba las ecuaciones de malla.
+
+![image](https://user-images.githubusercontent.com/85126275/132429855-9b26a7f1-3a60-4094-a524-56eb94342f07.png)
+
+40. Escriba las ecuaciones de malla para el circuito de la figura 23-84.
+
+![image](https://user-images.githubusercontent.com/85126275/132429879-0f1d31ad-f1cb-4914-a337-05cfb1be750b.png)
+
+41. Escriba las ecuaciones de malla para el circuito de la figura 23-85. (Este es un problema desafiante.)
+
+![image](https://user-images.githubusercontent.com/85126275/132429901-f174c916-c4d3-4b2f-a5e0-27e88b082587.png)
 
 -------------------------------------------------------------------------------------------------------------------
 
