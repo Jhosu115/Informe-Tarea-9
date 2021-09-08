@@ -28,7 +28,7 @@ Ing. Darwin Omar Alulema Flores
 
 # 1.OBJETIVOS
 
-
+[![23.png](https://i.postimg.cc/V6t3N90m/23.png)](https://postimg.cc/vgQPqVvN)
 
 
 # 2. MARCO TEORICO
