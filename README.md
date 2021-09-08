@@ -30,6 +30,12 @@ Ing. Darwin Omar Alulema Flores
 
 # 2. MARCO TEORICO
 
+[![Generacion-de-voltaje.png](https://i.postimg.cc/x8W60Xg1/Generacion-de-voltaje.png)](https://postimg.cc/sG4YmDtk)
+
+[![Potencia-en-sistemas-balenceados.png](https://i.postimg.cc/GmnXVsHM/Potencia-en-sistemas-balenceados.png)](https://postimg.cc/0bZGJjGm)
+
+[![Potencia-en-sistemas-balenceados.png](https://i.postimg.cc/GmnXVsHM/Potencia-en-sistemas-balenceados.png)](https://postimg.cc/0bZGJjGm)
+
  # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
  
  # Problemas Capitulo XXIII
