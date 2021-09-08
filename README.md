@@ -470,8 +470,130 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 
 # Problemas Capitulo XXIV
 
-# faltan los ejercicios de la 1 a la 37 
+# faltan los ejercicios de la 1 al 5 
+
 ----------------------------------------------------------------------------------------------------------------------
+
+7 : Para la carga de la figura 24-47, Van 347 V\angle150. Determine todas las corrientes de línea. Dibuje el diagrama fasorial.
+
+
+[![71.jpg](https://i.postimg.cc/k5TQLDJC/71.jpg)](https://postimg.cc/kVtRbJRY)
+
+[![72.jpg](https://i.postimg.cc/RFq7m9hH/72.jpg)](https://postimg.cc/HcDc0qQY)
+
+
+9. Una carga Y balanceada tiene una impedancia de Zan = 14.7 \angle160.
+Si V = 120 V \angle160, determine todas las corrientes de linea.
+
+[![81.jpg](https://i.postimg.cc/1tSk7C32/81.jpg)](https://postimg.cc/bG6VsRb9)
+
+11. Para el circuito de la figura 24-48, Vab = 480 V \angle0. Encuentre la fase y las
+corrientes de línea.
+
+[![111.jpg](https://i.postimg.cc/DyDyphkN/111.jpg)](https://postimg.cc/N56cLW08)
+
+
+[![112.jpg](https://i.postimg.cc/m2cTHnzy/112.jpg)](https://postimg.cc/0bsggcCz)
+
+13. Para el circuito de la figura 24-48, si lab = 10 A\angle—21  determine todos los voltajes de línea.
+
+[![131.jpg](https://i.postimg.cc/ydkS3PFg/131.jpg)](https://postimg.cc/5YWtZ8Kb)
+
+15 . Una carga Y balanceada tiene una impedancia de fase de 24 \angle33 y un voltaje líneo a línea de 600 V. Tome Van como referencia y determine todas las
+corrientes de línea.
+
+
+[![151.jpg](https://i.postimg.cc/C5bCd7gC/151.jpg)](https://postimg.cc/tnCnMh77)
+
+
+17. a. Para cierta carga Y balanceada, V ab = 208 V \angle30, Ia= 24 A\angle40 y f = 60 Hz. Determine la carga (R y L o C).
+
+
+b. Repita el inciso (a) si V bc = 208 V\angle—30e Ic = 12 A\angle140.
+
+
+[![171.jpg](https://i.postimg.cc/j2qgVBNw/171.jpg)](https://postimg.cc/sQ8976Ts)
+
+[![172.jpg](https://i.postimg.cc/xjgpGTDK/172.jpg)](https://postimg.cc/NL9xBt0M)
+
+
+
+
+19. Una carga A balanceada a 60 Hz tiene una corriente de Ibc = 4.5 A\angle—85
+El voltaje de linea es de 240 volts y Vab  se toma como referencia.
+
+a. Encuentre las otras corrientes de fase.
+
+b. Encuentre las corrientes de linea.
+
+c. Encuentre la resistencia R y la capacitancia C de la carga.
+
+[![191.jpg](https://i.postimg.cc/vHKvZ4fZ/191.jpg)](https://postimg.cc/D8qGCyx9)
+
+[![192.jpg](https://i.postimg.cc/gJGVT8FN/192.jpg)](https://postimg.cc/CZ6nZZKq)
+
+
+21. Para la figura 24-49, V = 120 V OO. Dibuje el equivalente de una sola
+fase y:
+a. Encuentre el voltaje de fase EA.N, magnitud y ångulo.
+b. Encuentre el voltaje de linea EAB, magnitud y ångulo.
+
+[![21.jpg](https://i.postimg.cc/T25dswfX/21.jpg)](https://postimg.cc/qg0HhpNm)
+
+23. Para la figura 24-48, E AN = 120 VZ— 10º, Encuentre la corriente de línea con
+el método equivalente de una sola fase.
+
+[![23.png](https://i.postimg.cc/V6t3N90m/23.png)](https://postimg.cc/vgQPqVvN)
+
+25. Para la figura 24 48, suponga que las líneas tienen una impedancia ZLinea de
+0.15 ohms + ¡0.25 ohms y E AN = 120 V<0º. Convierta la carga A en ▲ y use el
+equivalente de una fase para encontrar las corrientes de línea.
+
+[![25.png](https://i.postimg.cc/0ymmcbSr/25.png)](https://postimg.cc/SnSJKQDp)
+
+27. Para el circuito de la figura 24-49, suponga que Zlínea = 0.15 ohms+j 0.25 ohms y
+Vab = 600 V<30º. Determine E AB.
+
+[![27.png](https://i.postimg.cc/pXBps4Xb/27.png)](https://postimg.cc/hffDjCdp)
+
+29. Los mismos datos que el problema 28 excepto que el voltaje de fase en la
+carga ▲ es Va'b': = 480 V<30º Encuentre el voltaje del generador EAB, magnitud y ángulo.
+
+[![29-1.png](https://i.postimg.cc/g0V5hVHD/29-1.png)](https://postimg.cc/XZvQSyhG)
+
+[![29-2.png](https://i.postimg.cc/yxdr2w4Q/29-2.png)](https://postimg.cc/bD7TtVvk)
+
+31. Para la figura 24-21(a), Zy = 15ohms + j 20º ohms, Z▲ =9 ohms — j12ohms, Zlínea =
+0.1ohms + j 0.1 ohms, e I a'b', = 40 A<73.13º. Encuentre el voltaje de fase Y V an,
+magnitud y ángulo.
+
+[![31.png](https://i.postimg.cc/fWGr8qqK/31.png)](https://postimg.cc/nM12z2Jj)
+
+33. Repita el problema 32 para la carga balanceada de la figura 24-51, dado
+EAN = 120V.
+
+[![33-1.png](https://i.postimg.cc/FKkSCpBy/33-1.png)](https://postimg.cc/7CDbf3Dh)
+
+[![33-2.png](https://i.postimg.cc/ncdQHN8K/33-2.png)](https://postimg.cc/N5H0DJjL)
+
+35. Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL = 207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34.
+
+
+[![35-1.png](https://i.postimg.cc/ZqLmmt24/35-1.png)](https://postimg.cc/wt3Z5P9G)
+
+[![35-2.png](https://i.postimg.cc/nVWJp1Rj/35-2.png)](https://postimg.cc/xqL7PLSn)
+
+37. Para la figura 24-48, EAB = 208 V. Calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT y ST de la tabla 24-2. Compare sus resultados con los del problema 36.
+
+
+[![37-1.png](https://i.postimg.cc/MpT3Hknz/37-1.png)](https://postimg.cc/Cz3srQC2)
+
+[![33-2.png](https://i.postimg.cc/ncdQHN8K/33-2.png)](https://postimg.cc/N5H0DJjL)
+
+39. Para la figura 24-53, si VAB = 600 V, determine la potencia total, la potencia
+reactiva total, la potencia aparente total y el factor de potencia.
+
+[![39.png](https://i.postimg.cc/85P7QbyX/39.png)](https://postimg.cc/DWHv1131)
 
 41. Para la figura 24-19, si Vab = 480 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
 
@@ -680,8 +802,12 @@ b. El voltaje entre el neutro de la carga y el neutro del generador.
 
  # 4. VIDEO
  
+ 
+ 
  # 5. CONCLUSIONES
  
+Terminando con Éxito nuestro trabajo como grupo llegamos a la conclusión que la información indicada en estos capitulo ha sido de mucho apoyo para solventar dudas además que a provechosa al resolver los ejercicios. Como grupo hemos estudiado sobre los conceptos de Frecuencia amplitud periodo y valor pico además conocimos a los fasores y una introducción al concepto de impedancia.
+Analizamos relaciones entre calores bases con los del deber por medio de computadora cabe recalcar que cumplimos con nuestros objetivos planteados y que este capítulo 23-24 nos han llegado a brindar mucha información interesante que está claro usaremos en un futuro cercano Finalizamos con estos capítulos y espero nuestro trabajo sea de mucho apoyo a los demás Estudiantes Circuitos sin duda una materia muy interesante.
  
  # 6. BIBLIOGRAFÍAS
  
