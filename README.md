@@ -631,5 +631,20 @@ b. El voltaje entre el neutro de la carga y el neutro del generador.
  # 6. BIBLIOGRAFÍAS
  
  
+ BIRTLH. (s.f.). Generación de corriente alterna trifásica. Circuitos eléctricos trifásicos. 
+ 
+ https://ikastaroak.birt.eus/edu/argitalpen/backupa/20200331/1920k/es/IEA/E/E06/es_IEA_E06_Contenidos/website_1_generacin_de_corriente_alterna_trifsica.html 
+ 
+Carkenio73. (23 de Abril de 2020). Potencia de un sistema trifásico balanceado. Dademuchconnection. https://dademuch.com/2020/04/23/potencia-de-un-sistema-trifasico-balanceado/ 
+https://www.uco.es/grupos/giie/cirweb/teoria/tema_08/tema_08_01.pdf
+
+https://www.ucursos.cl/ingenieria/2010/1/EL3003/2/material_docente/bajar%3Fid_material%3D273730#:~:text=En%20este%20caso%20particular%20cada,suma%20de%20las%20tres%20lecturas 
+
+Dorf, R., Svoboda J. (s.f.). Circuitos Eléctricos. Medición de potencia con dos vatímetros. https://tecdigital.tec.ac.cr/repo/rea/electronica/el-2114/un_3/35_medicin_de_potencia_en_circuitos_trifsicos.html 
+
+RedUSERS. (26 de Septiembre de 2014). Generación trifásica. RedUSERS. https://www.redusers.com/noticias/la-generacion-trifasica/ 
+
+UNDMP. (s.f.). Medición de potencia en sistemas trifásicos. MÁQUINAS Y ACCIONAMIENTOS ELÉCTRICOS. http://www3.fi.mdp.edu.ar/electrica/maquinasyaccionamientos/subir/3.Practicas_de_Laboratorio/mae_2019_laboratorio4_medicion_potencia_trifasica.pdf
+
 
  
