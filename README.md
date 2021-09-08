@@ -409,13 +409,13 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 
 -------------------------------------------------------------------------------------------------------------------
 
-faltan 5 ejercicios para acabar el cap 23
+# faltan 5 ejercicios para acabar el cap 23
 
 -------------------------------------------------------------------------------------------------------------------
 
 # Problemas Capitulo XXIV
 
-faltan los ejercicios de la 1 a la 37 
+# faltan los ejercicios de la 1 a la 37 
 ----------------------------------------------------------------------------------------------------------------------
 
 41. Para la figura 24-19, si Vab = 480 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
